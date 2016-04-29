@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "C:\\Users\\K610c-i7-D2\\Documents\\ADT\\MathsApp\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
+        "outputFile": "C:\\Users\\rongjielong\\Desktop\\MathsApp\\app\\build\\intermediates\\res\\merged\\debug\\values-v14\\values-v14.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 201
                 },
                 "from": {
-                    "file": "C:\\Users\\K610c-i7-D2\\Documents\\ADT\\MathsApp\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "file": "C:\\Users\\rongjielong\\Desktop\\MathsApp\\app\\src\\main\\res\\values-v14\\styles.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

@@ -151,6 +151,8 @@
     <dimen name="activity_vertical_margin">16dp</dimen>
     <string name="action_settings">Settings</string>
     <string name="app_name">MathsApp</string>
+    <string name="exit">真的要退出游戏吗？</string>
+    <string name="game_introduce">游戏简介：该游戏是一款适合小学生计算加减乘除四则运算的智力应用软件。内置十道选择题，答对6道即为合格，否则为不及格。</string>
     <string name="hello_world">Hello world!</string>
     <style name="AppBaseTheme" parent="android:Theme.Light">
         <!--

@@ -6,12 +6,16 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 import android.app.Activity;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
+import android.content.Intent;
 import android.graphics.drawable.Drawable;
 import android.media.AudioManager;
 import android.media.MediaPlayer;
 import android.media.SoundPool;
 import android.os.Bundle;
 import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.view.View.OnClickListener;
 import android.view.Window;
@@ -21,6 +25,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.ProgressBar;
 import android.widget.TextView;
+import android.widget.Toast;
 
 public class PlayActivity extends Activity {
 
@@ -558,6 +563,9 @@ public class PlayActivity extends Activity {
 		return true;
 	}
 
+
+
+
 	private void init() {
 
 		progress = (ProgressBar) findViewById(R.id.horiz);
@@ -569,5 +577,11 @@ public class PlayActivity extends Activity {
 		// 获取进度条的最大进度
 		int max = progress.getMax();
 
+	}
+
+	public void onBack(){
+		Intent intent=new Intent(PlayActivity.this,MainActivity.class);
+		startActivity(intent);
+		//this.finish() ;
 	}
 }

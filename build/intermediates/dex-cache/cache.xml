@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9b811967b8b8f12d8e91cbc0c661483aacd7fe21">
+        <dex dex="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\pre-dexed\debug\instant-run_aa2939a433ec93c38f04c5038f620e2a91568372.jar" />
+    </item>
+    <item
+        jar="D:\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.2.1\support-annotations-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\pre-dexed\debug\support-annotations-23.2.1_efd358856f7349d1a9ffd2b176d6d830be5c44c9.jar" />
+    </item>
+    <item
+        jar="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d805ceedfd5ff377c4110fa3a18924f7a81f744c">
+        <dex dex="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_b95c7ac5ee86c83a3a15afd5fc1e393bcdb0aec9.jar" />
+    </item>
+    <item
+        jar="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\libs\internal_impl-23.2.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\pre-dexed\debug\internal_impl-23.2.1_864f2c251d813d4466549632e1fda27b49bfef45.jar" />
+    </item>
+    <item
+        jar="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.2.1\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="C:\Users\rongjielong\Desktop\MathsApp\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.2.1_82e4845c22cd77cd4157290ed5c6abfacd1659fe.jar" />
+    </item>
+
+</items>
